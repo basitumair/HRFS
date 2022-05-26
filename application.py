@@ -89,10 +89,10 @@ reload(mod1)
 reload(mod2)
 #read dataset
 # city.head()
-uni=pd.DataFrame(pd.read_csv("world_universities.csv"))
-# print(uni.head())
-country=pd.DataFrame(pd.read_excel("cities500.xlsx"))
-city=pd.DataFrame(pd.read_excel("cities500.xlsx"))
+# uni=pd.DataFrame(pd.read_csv("world_universities.csv"))
+# # print(uni.head())
+# country=pd.DataFrame(pd.read_excel("cities500.xlsx"))
+# city=pd.DataFrame(pd.read_excel("cities500.xlsx"))
 
 
 
